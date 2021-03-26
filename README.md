@@ -1,7 +1,6 @@
 ### Hi there 👋, I am [Enzo](https://github.com/EnzoItaliano) 👨‍💻
 
 ![version :26.03.2021](https://img.shields.io/badge/version-26.03.2021-informational) &nbsp;
-![](https://komarev.com/ghpvc/?username=enzoitaliano&color=red) &nbsp;
 ![](https://img.shields.io/github/followers/enzoitaliano?style=social)
 
 :man: About Me :
