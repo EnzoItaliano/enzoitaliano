@@ -1,7 +1,7 @@
 ### Hi there 👋, I am [Enzo](https://github.com/EnzoItaliano) 👨‍💻
 
 ![version :26.03.2021](https://img.shields.io/badge/version-26.03.2021-informational) &nbsp;
-![](https://hit.yhype.me/github/profile?user_id=45704031)
+![profile count](https://hit.yhype.me/github/profile?user_id=45704031)
 
 <!--
 **EnzoItaliano/enzoitaliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
