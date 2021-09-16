@@ -1,6 +1,6 @@
 ### Hi there 👋, I am [Enzo](https://github.com/EnzoItaliano) 👨‍💻
 
-![version :26.03.2021](https://img.shields.io/badge/version-26.03.2021-informational) &nbsp;
+![version :16.09.2021](https://img.shields.io/badge/version-16.09.2021-informational) &nbsp;
 ![](https://img.shields.io/github/followers/enzoitaliano?style=social)
 
 :man: About Me :
@@ -23,6 +23,7 @@
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 - Backend : <br />
   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
