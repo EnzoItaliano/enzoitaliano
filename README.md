@@ -1,6 +1,6 @@
 ### Hi there 👋, I am [Enzo](https://github.com/EnzoItaliano) 👨‍💻
 
-![version :14.07.2021](https://img.shields.io/badge/version-16.09.2021-informational) &nbsp;
+![version :14.07.2022](https://img.shields.io/badge/version-14.07.2022-informational) &nbsp;
 ![](https://img.shields.io/github/followers/enzoitaliano?style=social)
 
 :man: About Me :
