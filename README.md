@@ -1,12 +1,13 @@
 ### Hi there 👋, I am [Enzo](https://github.com/EnzoItaliano) 👨‍💻
 
-![version :16.09.2021](https://img.shields.io/badge/version-16.09.2021-informational) &nbsp;
+![version :14.07.2021](https://img.shields.io/badge/version-16.09.2021-informational) &nbsp;
 ![](https://img.shields.io/github/followers/enzoitaliano?style=social)
 
 :man: About Me :
 
-- 🎓 I'm currently studying Computer Science at Federal Technological University of Paraná, Campo Mourão (2018-2022).
-- 🌱 I’m currently learning React, Nodejs, and Python.
+- 🎓 I'm currently studying Computer Science at Federal Technological University of Paraná, Campo Mourão (2018-2023).
+- 🎓 I'm currently getting Master's Degree in Informatics at Polytechnic Institute of Bragança, Bragança (2022-2023).
+- 🌱 I’m currently learning Python and FastAPI.
 - 💬 Feel free to ask me about my repositories and the languages I have already worked with.
 - 📫 How to reach me: enzo.ditaliano@gmail.com
 
@@ -27,9 +28,11 @@
 - Backend : <br />
   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+- Database : <br />
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 - OS & IDE & Tools : <br />
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
