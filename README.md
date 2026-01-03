@@ -1,15 +1,17 @@
 ### Hi there 👋, I am [Enzo](https://github.com/EnzoItaliano) 👨‍💻
 
-![version :14.07.2022](https://img.shields.io/badge/version-14.07.2022-informational) &nbsp;
-![](https://img.shields.io/github/followers/enzoitaliano?style=social)
+![GitHub followers](https://img.shields.io/github/followers/enzoitaliano?style=social)
+![Latest Update](https://img.shields.io/badge/last%20updated-January%202026-brightgreen)
 
-:man: About Me :
+I am a **Software Engineer** and **Data Science Enthusiast** with a Master's degree in Informatics. I enjoy building scalable backends and exploring Machine Learning solutions.
 
-- 🎓 I'm currently studying Computer Science at Federal Technological University of Paraná, Campo Mourão (2018-2023).
-- 🎓 I'm currently getting Master's Degree in Informatics at Polytechnic Institute of Bragança, Bragança (2022-2023).
-- 🌱 I’m currently learning Python and FastAPI.
-- 💬 Feel free to ask me about my repositories and the languages I have already worked with.
-- 📫 How to reach me: enzo.ditaliano@gmail.com
+---
+
+### 🎓 Education & Background
+- 🎓 **M.Sc. in Informatics** | Polytechnic Institute of Bragança, Portugal (Completed 2023)
+- 🎓 **B.Sc. in Computer Science** | Federal Technological University of Paraná, Brazil (Completed 2023)
+- 🚀 Currently focusing on building robust APIs with **Python** and **FastAPI**.
+- 📫 Reach me at: **enzo.ditaliano@gmail.com**
 
 :wrench: Technologies I've been using so far :
 
@@ -38,6 +40,20 @@
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi) ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Data Science** | ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F8F9FA?style=flat-square&logo=scikit-learn) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+---
 
 :busts_in_silhouette: Social Media
 
